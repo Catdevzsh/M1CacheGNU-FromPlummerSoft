@@ -1,2 +1,2 @@
-# M1CacheGNU-FromPlummerSofter
+# M1CacheGNU-FromPlummerSoft
 M1 Port of hypercache 
